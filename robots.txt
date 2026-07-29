@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hwagok-info-note.roomlab-dangsan.xyz/sitemap.xml
