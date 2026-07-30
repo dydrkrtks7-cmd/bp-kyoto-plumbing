@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://hwagok-info-note.roomlab-dangsan.xyz/sitemap.xml
+Sitemap: https://hwagok-info-note.roomlab-dangsan.xyz/sitemap-pages.xml
